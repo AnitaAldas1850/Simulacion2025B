@@ -4,8 +4,8 @@ Contenidos
 - Desarrollo de aplicativos web
 - Generación de números aleatorios
 - Generación de variables aleatorias
-  -Discretas
-  -Continuas
+   - Discretas
+  - Continuas
 
 ## Bibliografía
 
