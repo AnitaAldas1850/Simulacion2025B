@@ -8,9 +8,9 @@ Contenidos
   - Continuas
  
 
-![Modelización](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.processmaker.com%2Fes%2Fblog%2Fsimulation-modeling-process-mining%2F&psig=AOvVaw3sgDKlRMST3YqhGvUNN19t&ust=1759324380913000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLie2ZfIgJADFQAAAAAdAAAAABAE){width = 140px}
+![Modelización](https://www.simwell.io/hubfs/Imported_Blog_Media/1*nNLRUcFSbnTvUfFvqsKO0w-2.png){width='100px'}
 
-LA ecuación de la energía es: $E=-mc^2$, y puede cambiar el color $\textcolor{red}{E=mc^2}$
+LA ecuación de la energía es: $E=mc^2$, y puede cambiar el color $\textcolor{red}{E=mc^2}$
 
 ## Bibliografía
 
